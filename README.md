@@ -1,5 +1,5 @@
 # Projeto pessoal: calculadora simples
-Calculadora feita com HTML, CSS e JavaScript.
+Calculadora feita com HTML, CSS e JavaScript. Executa as funções de soma, subtração, multiplicação e divisão, além de deletar o ultimo dígito e apagar completamente o display.
 
 <h1 align="center">
   Calculadora simples
